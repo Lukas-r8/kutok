@@ -8,12 +8,11 @@ div{
 }
 
 h1 {
-  color: red;
+  color: #ccc;
   text-align: center;
 }
-li{
-  margin: auto 0px;
-}
+
 h2{
+  color: #ccc;
   text-align: center;
 }
